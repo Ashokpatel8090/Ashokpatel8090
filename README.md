@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Ashok Patel</h1>
-<h3 align="center">A passionate frontend developer from India - 👀 I’m interested in Web Devlopment and Creative Websites</h3>
+<h3 align="center">A passionate Full Stack developer from India - 👀 I’m interested in Web Devlopment and Creative Websites</h3>
 - 🌱 I’m currently learning Bachelor of Technology in Information Technology Studying at Dr.A.P.J Abdul Kalam Technical University
 
 
