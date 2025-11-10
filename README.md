@@ -1,6 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Ashok Patel</h1>
-<h3 align="center">A passionate Full Stack developer from India - 👀 I’m interested in Web Devlopment and Creative Websites</h3>
-- 🌱 I’m currently learning Bachelor of Technology in Information Technology Studying at Dr.A.P.J Abdul Kalam Technical University
+<h2>I have completed my Bachelor of Technology in Information Technology (2025) from Dr. A.P.J. Abdul Kalam Technical University.</h2>
+<h3 align="center">A passionate Full Stack Developer from India — 👀 I’m interested in Web Development and creating innovative, user-centric websites.</h3>
+- 🌱 Currently, I’m working as a Full Stack Developer at IDC India, where I contribute to building scalable, high-performance web applications.
 
 
 ## 🌐 Socials:
